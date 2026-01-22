@@ -1,0 +1,1 @@
+GEN_CSRCS += _heartrate_RGB565A8_128x128.c _oxygen_RGB565A8_128x128.c

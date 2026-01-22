@@ -1,0 +1,18 @@
+
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.5 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.9bb7aa84fe 
+ - tool-esptoolpy @ 5.1.0 
+ - toolchain-xtensa-esp-elf @ 14.2.0+20251107
+Dependency Graph
+|-- lvgl @ 9.2.1
+|-- Adafruit NeoPixel @ 1.15.2
+|-- ESP32-audioI2S @ 3.4.4+sha.86e2230
+|-- SparkFun MAX3010x Pulse and Proximity Sensor Library @ 1.1.2+sha.72d5308
+|-- SenseCAP_Watcher_lvgl
+|-- SenseCAP
+|-- Farm-Data-Relay-System @ 2.0.1
+|-- Wire @ 3.3.5
+RAM:   [======    ]  59.2% (used 194032 bytes from 327680 bytes)
+Flash: [========  ]  78.3% (used 2464243 bytes from 3145728 bytes)

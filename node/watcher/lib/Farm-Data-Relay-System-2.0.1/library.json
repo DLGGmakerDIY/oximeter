@@ -1,0 +1,22 @@
+{
+  "name": "Farm-Data-Relay-System",
+  "version": "2.0.1",
+  "description": "FDRS is a highly configurable cloud-agnostic network utilizing LoRa and ESPNow",
+  "keywords": "espnow, lora, communication, sensor, gateway",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timmbogner/Farm-Data-Relay-System.git"
+  },
+  "authors": [
+    {
+      "name": "Timm Bogner",
+      "email": "timmbogner@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "bblanchon/ArduinoJson": "^6.19.0"
+  },
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32"]
+}
+
