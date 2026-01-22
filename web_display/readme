@@ -1,0 +1,14 @@
+PACKAGES: 
+ - framework-arduinoespressif32 @ 3.20017.241212+sha.dcc1105b 
+ - tool-esptoolpy @ 2.40900.250804 (4.9.0) 
+ - toolchain-xtensa-esp32 @ 8.4.0+2021r2-patch5
+Dependency Graph
+|-- M5Unified @ 0.2.11
+|-- PubSubClient @ 2.8.0
+|-- ArduinoJson @ 6.21.5
+|-- WebServer @ 2.0.0
+|-- WiFi @ 2.0.0
+|-- Farm-Data-Relay-System @ 2.0.1
+|-- SPIFFS @ 2.0.0
+RAM:   [          ]   1.1% (used 49688 bytes from 4521984 bytes)
+Flash: [===       ]  33.0% (used 1037673 bytes from 3145728 bytes)

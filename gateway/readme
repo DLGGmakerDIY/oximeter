@@ -1,0 +1,10 @@
+PACKAGES: 
+ - framework-arduinoespressif32 @ 3.20017.241212+sha.dcc1105b 
+ - tool-esptoolpy @ 2.40900.250804 (4.9.0) 
+ - toolchain-riscv32-esp @ 8.4.0+2021r2-patch5 
+ - toolchain-xtensa-esp32s3 @ 8.4.0+2021r2-patch5
+Dependency Graph
+|-- M5Unified @ 0.2.11
+|-- Farm-Data-Relay-System @ 2.0.1
+RAM:   [=         ]  15.0% (used 49108 bytes from 327680 bytes)
+Flash: [===       ]  27.0% (used 904053 bytes from 3342336 bytes)
