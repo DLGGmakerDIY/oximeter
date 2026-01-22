@@ -1,0 +1,5 @@
+
+下载：
+    ls /dev/cu.usb* 
+        /dev/cu.usbmodem5AF91646403
+    esptool.py --chip esp32s3 --port /dev/cu.usbmodem5AF91646403 --baud 1500000 write_flash 0x0 merged_firmware_16MB.bin
