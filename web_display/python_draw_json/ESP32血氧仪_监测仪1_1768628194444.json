@@ -1,0 +1,933 @@
+[
+    {
+        "millis": 124552,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 124,
+        "localTime": 1768628041874
+    },
+    {
+        "millis": 125727,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 125,
+        "localTime": 1768628042999
+    },
+    {
+        "millis": 126863,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 126,
+        "localTime": 1768628044145
+    },
+    {
+        "millis": 128181,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 127,
+        "localTime": 1768628045456
+    },
+    {
+        "millis": 129314,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 128,
+        "localTime": 1768628046597
+    },
+    {
+        "millis": 130437,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 130,
+        "localTime": 1768628047708
+    },
+    {
+        "millis": 131602,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 131,
+        "localTime": 1768628048873
+    },
+    {
+        "millis": 132859,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 132,
+        "localTime": 1768628050145
+    },
+    {
+        "millis": 134012,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 133,
+        "localTime": 1768628051290
+    },
+    {
+        "millis": 135149,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 134,
+        "localTime": 1768628052431
+    },
+    {
+        "millis": 136306,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 135,
+        "localTime": 1768628053579
+    },
+    {
+        "millis": 137568,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 137,
+        "localTime": 1768628054853
+    },
+    {
+        "millis": 138837,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 138,
+        "localTime": 1768628056118
+    },
+    {
+        "millis": 140277,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 139,
+        "localTime": 1768628057554
+    },
+    {
+        "millis": 141388,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 141,
+        "localTime": 1768628058664
+    },
+    {
+        "millis": 142588,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 142,
+        "localTime": 1768628059863
+    },
+    {
+        "millis": 143759,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 143,
+        "localTime": 1768628061048
+    },
+    {
+        "millis": 144882,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 144,
+        "localTime": 1768628062160
+    },
+    {
+        "millis": 146015,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 145,
+        "localTime": 1768628063289
+    },
+    {
+        "millis": 147138,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 146,
+        "localTime": 1768628064426
+    },
+    {
+        "millis": 148256,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 147,
+        "localTime": 1768628065547
+    },
+    {
+        "millis": 149463,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 149,
+        "localTime": 1768628066749
+    },
+    {
+        "millis": 150618,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 150,
+        "localTime": 1768628067901
+    },
+    {
+        "millis": 151739,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 151,
+        "localTime": 1768628069023
+    },
+    {
+        "millis": 152868,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 152,
+        "localTime": 1768628070148
+    },
+    {
+        "millis": 153991,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 153,
+        "localTime": 1768628071277
+    },
+    {
+        "millis": 155125,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 154,
+        "localTime": 1768628072405
+    },
+    {
+        "millis": 156251,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 155,
+        "localTime": 1768628073532
+    },
+    {
+        "millis": 157625,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 157,
+        "localTime": 1768628074906
+    },
+    {
+        "millis": 158707,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 158,
+        "localTime": 1768628075993
+    },
+    {
+        "millis": 159838,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 159,
+        "localTime": 1768628077114
+    },
+    {
+        "millis": 160961,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 160,
+        "localTime": 1768628078240
+    },
+    {
+        "millis": 162107,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 161,
+        "localTime": 1768628079382
+    },
+    {
+        "millis": 163218,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 162,
+        "localTime": 1768628080499
+    },
+    {
+        "millis": 164341,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 163,
+        "localTime": 1768628081626
+    },
+    {
+        "millis": 165463,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 165,
+        "localTime": 1768628082748
+    },
+    {
+        "millis": 166587,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 166,
+        "localTime": 1768628083870
+    },
+    {
+        "millis": 167640,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 167,
+        "localTime": 1768628084919
+    },
+    {
+        "millis": 168841,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 168,
+        "localTime": 1768628086125
+    },
+    {
+        "millis": 169966,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 169,
+        "localTime": 1768628087251
+    },
+    {
+        "millis": 171125,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 170,
+        "localTime": 1768628088401
+    },
+    {
+        "millis": 172227,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 171,
+        "localTime": 1768628089502
+    },
+    {
+        "millis": 173352,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 172,
+        "localTime": 1768628090634
+    },
+    {
+        "millis": 174498,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 174,
+        "localTime": 1768628091776
+    },
+    {
+        "millis": 175598,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 175,
+        "localTime": 1768628092879
+    },
+    {
+        "millis": 176914,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 176,
+        "localTime": 1768628094325
+    },
+    {
+        "millis": 178155,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 177,
+        "localTime": 1768628095435
+    },
+    {
+        "millis": 179295,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 178,
+        "localTime": 1768628096578
+    },
+    {
+        "millis": 180420,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 180,
+        "localTime": 1768628097694
+    },
+    {
+        "millis": 181543,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 181,
+        "localTime": 1768628098825
+    },
+    {
+        "millis": 182640,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 182,
+        "localTime": 1768628099922
+    },
+    {
+        "millis": 183786,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 183,
+        "localTime": 1768628101060
+    },
+    {
+        "millis": 184929,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 184,
+        "localTime": 1768628102213
+    },
+    {
+        "millis": 186052,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 185,
+        "localTime": 1768628103332
+    },
+    {
+        "millis": 187166,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 186,
+        "localTime": 1768628104445
+    },
+    {
+        "millis": 188293,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 187,
+        "localTime": 1768628105591
+    },
+    {
+        "millis": 189435,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 189,
+        "localTime": 1768628106709
+    },
+    {
+        "millis": 190545,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 190,
+        "localTime": 1768628107834
+    },
+    {
+        "millis": 191680,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 191,
+        "localTime": 1768628108964
+    },
+    {
+        "millis": 192765,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 192,
+        "localTime": 1768628110059
+    },
+    {
+        "millis": 193932,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 193,
+        "localTime": 1768628111215
+    },
+    {
+        "millis": 195053,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 194,
+        "localTime": 1768628112342
+    },
+    {
+        "millis": 196187,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 195,
+        "localTime": 1768628113462
+    },
+    {
+        "millis": 197311,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 196,
+        "localTime": 1768628114594
+    },
+    {
+        "millis": 198439,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 198,
+        "localTime": 1768628115718
+    },
+    {
+        "millis": 199761,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 199,
+        "localTime": 1768628117045
+    },
+    {
+        "millis": 200879,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 200,
+        "localTime": 1768628118156
+    },
+    {
+        "millis": 202017,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 201,
+        "localTime": 1768628119301
+    },
+    {
+        "millis": 203145,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 202,
+        "localTime": 1768628120431
+    },
+    {
+        "millis": 204267,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 203,
+        "localTime": 1768628121552
+    },
+    {
+        "millis": 205403,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 205,
+        "localTime": 1768628122685
+    },
+    {
+        "millis": 206525,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 206,
+        "localTime": 1768628123809
+    },
+    {
+        "millis": 207610,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 207,
+        "localTime": 1768628124915
+    },
+    {
+        "millis": 208775,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 208,
+        "localTime": 1768628126063
+    },
+    {
+        "millis": 209907,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 209,
+        "localTime": 1768628127191
+    },
+    {
+        "millis": 211030,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 210,
+        "localTime": 1768628128317
+    },
+    {
+        "millis": 212153,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 211,
+        "localTime": 1768628129434
+    },
+    {
+        "millis": 213504,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 213,
+        "localTime": 1768628130853
+    },
+    {
+        "millis": 214718,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 214,
+        "localTime": 1768628132003
+    },
+    {
+        "millis": 215840,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 215,
+        "localTime": 1768628133116
+    },
+    {
+        "millis": 216964,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 216,
+        "localTime": 1768628134240
+    },
+    {
+        "millis": 218092,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 217,
+        "localTime": 1768628135380
+    },
+    {
+        "millis": 219226,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 218,
+        "localTime": 1768628136508
+    },
+    {
+        "millis": 220375,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 220,
+        "localTime": 1768628137659
+    },
+    {
+        "millis": 221563,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 221,
+        "localTime": 1768628138859
+    },
+    {
+        "millis": 222700,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 222,
+        "localTime": 1768628139985
+    },
+    {
+        "millis": 223857,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 223,
+        "localTime": 1768628141140
+    },
+    {
+        "millis": 224957,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 224,
+        "localTime": 1768628142242
+    },
+    {
+        "millis": 226080,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 225,
+        "localTime": 1768628143371
+    },
+    {
+        "millis": 227213,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 226,
+        "localTime": 1768628144498
+    },
+    {
+        "millis": 228343,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 227,
+        "localTime": 1768628145628
+    },
+    {
+        "millis": 229466,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 229,
+        "localTime": 1768628146757
+    },
+    {
+        "millis": 230591,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 230,
+        "localTime": 1768628147879
+    },
+    {
+        "millis": 231724,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 231,
+        "localTime": 1768628149002
+    },
+    {
+        "millis": 232838,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 232,
+        "localTime": 1768628150133
+    },
+    {
+        "millis": 233964,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 233,
+        "localTime": 1768628151248
+    },
+    {
+        "millis": 235154,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 234,
+        "localTime": 1768628152433
+    },
+    {
+        "millis": 237032,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 236,
+        "localTime": 1768628154400
+    },
+    {
+        "millis": 238256,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 237,
+        "localTime": 1768628155535
+    },
+    {
+        "millis": 239389,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 239,
+        "localTime": 1768628156679
+    },
+    {
+        "millis": 240521,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 240,
+        "localTime": 1768628157814
+    },
+    {
+        "millis": 241644,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 241,
+        "localTime": 1768628158931
+    },
+    {
+        "millis": 242771,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 242,
+        "localTime": 1768628160060
+    },
+    {
+        "millis": 243909,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 243,
+        "localTime": 1768628161188
+    },
+    {
+        "millis": 245030,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 244,
+        "localTime": 1768628162322
+    },
+    {
+        "millis": 246151,
+        "BPM": -1,
+        "SpO2": -1,
+        "monitoringTime": 245,
+        "localTime": 1768628163428
+    },
+    {
+        "millis": 247284,
+        "BPM": 166,
+        "SpO2": 100,
+        "monitoringTime": 246,
+        "localTime": 1768628164569
+    },
+    {
+        "millis": 248408,
+        "BPM": 166,
+        "SpO2": 99,
+        "monitoringTime": 248,
+        "localTime": 1768628165694
+    },
+    {
+        "millis": 249538,
+        "BPM": 100,
+        "SpO2": 100,
+        "monitoringTime": 249,
+        "localTime": 1768628166817
+    },
+    {
+        "millis": 250655,
+        "BPM": 71,
+        "SpO2": 98,
+        "monitoringTime": 250,
+        "localTime": 1768628167939
+    },
+    {
+        "millis": 251789,
+        "BPM": 71,
+        "SpO2": 99,
+        "monitoringTime": 251,
+        "localTime": 1768628169075
+    },
+    {
+        "millis": 253058,
+        "BPM": 3,
+        "SpO2": 98,
+        "monitoringTime": 252,
+        "localTime": 1768628170345
+    },
+    {
+        "millis": 254269,
+        "BPM": 42,
+        "SpO2": 100,
+        "monitoringTime": 253,
+        "localTime": 1768628171548
+    },
+    {
+        "millis": 255363,
+        "BPM": 42,
+        "SpO2": 98,
+        "monitoringTime": 254,
+        "localTime": 1768628172642
+    },
+    {
+        "millis": 256494,
+        "BPM": 39,
+        "SpO2": 98,
+        "monitoringTime": 256,
+        "localTime": 1768628173780
+    },
+    {
+        "millis": 257582,
+        "BPM": 39,
+        "SpO2": 97,
+        "monitoringTime": 257,
+        "localTime": 1768628174865
+    },
+    {
+        "millis": 258752,
+        "BPM": 39,
+        "SpO2": 98,
+        "monitoringTime": 258,
+        "localTime": 1768628176039
+    },
+    {
+        "millis": 259881,
+        "BPM": 39,
+        "SpO2": 97,
+        "monitoringTime": 259,
+        "localTime": 1768628177160
+    },
+    {
+        "millis": 260999,
+        "BPM": 39,
+        "SpO2": 92,
+        "monitoringTime": 260,
+        "localTime": 1768628178285
+    },
+    {
+        "millis": 262131,
+        "BPM": 39,
+        "SpO2": 99,
+        "monitoringTime": 261,
+        "localTime": 1768628179412
+    },
+    {
+        "millis": 263254,
+        "BPM": 39,
+        "SpO2": 95,
+        "monitoringTime": 262,
+        "localTime": 1768628180540
+    },
+    {
+        "millis": 264375,
+        "BPM": 39,
+        "SpO2": 95,
+        "monitoringTime": 264,
+        "localTime": 1768628181655
+    },
+    {
+        "millis": 265504,
+        "BPM": 39,
+        "SpO2": 95,
+        "monitoringTime": 265,
+        "localTime": 1768628182791
+    },
+    {
+        "millis": 266645,
+        "BPM": 39,
+        "SpO2": 97,
+        "monitoringTime": 266,
+        "localTime": 1768628183926
+    },
+    {
+        "millis": 267690,
+        "BPM": 45,
+        "SpO2": 100,
+        "monitoringTime": 267,
+        "localTime": 1768628184969
+    },
+    {
+        "millis": 268807,
+        "BPM": 45,
+        "SpO2": 100,
+        "monitoringTime": 268,
+        "localTime": 1768628186093
+    },
+    {
+        "millis": 269906,
+        "BPM": 53,
+        "SpO2": 100,
+        "monitoringTime": 269,
+        "localTime": 1768628187185
+    },
+    {
+        "millis": 271039,
+        "BPM": 48,
+        "SpO2": 100,
+        "monitoringTime": 270,
+        "localTime": 1768628188326
+    },
+    {
+        "millis": 272160,
+        "BPM": 48,
+        "SpO2": 99,
+        "monitoringTime": 271,
+        "localTime": 1768628189451
+    },
+    {
+        "millis": 273302,
+        "BPM": 48,
+        "SpO2": 100,
+        "monitoringTime": 272,
+        "localTime": 1768628190581
+    },
+    {
+        "millis": 274419,
+        "BPM": 48,
+        "SpO2": 99,
+        "monitoringTime": 274,
+        "localTime": 1768628191704
+    },
+    {
+        "millis": 275547,
+        "BPM": 45,
+        "SpO2": 99,
+        "monitoringTime": 275,
+        "localTime": 1768628192831
+    },
+    {
+        "millis": 276671,
+        "BPM": 45,
+        "SpO2": 100,
+        "monitoringTime": 276,
+        "localTime": 1768628193964
+    }
+]
